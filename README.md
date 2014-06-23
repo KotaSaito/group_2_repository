@@ -14,3 +14,12 @@ bundle exec rails s
 ```
 bundle install
 ```
+
+###gitの使い方
+```
+１　LINEでやること宣言
+２　ブランチを作成し、作業（おおもとのまま作業しない）
+３　addとcommitをしてpushする準備する
+４　pushしてgithubにあげる
+５　周りの人が確認してマージする（おおもとにあげる）
+```
